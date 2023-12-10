@@ -31,11 +31,7 @@ The alpha hyperparameter of the Naive Bayes classifier is tuned for better perfo
 
 A function `predict_sentiment` is provided to predict the sentiment of new reviews. Examples are included in the code for demonstration.
 
-## How to Use
+# Results
+The best accuracy achieved during hyperparameter tuning is [insert accuracy]% with an alpha value of [insert alpha value].
 
-To use the sentiment analysis model, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/LP-THE-CODER/NLP-Projects/tree/main
