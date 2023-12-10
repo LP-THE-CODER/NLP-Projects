@@ -38,4 +38,4 @@ To use the sentiment analysis model, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LP-THE-CODER/sentiment-analysis.git
+git clone https://github.com/LP-THE-CODER/NLP-Projects/tree/main
